@@ -21,7 +21,7 @@ ul a {
 .headcustom{
     font-size: 35px !important;
 }
-.btncustom1{
+/* {
    
     color: white;
     background-color: black;
@@ -31,7 +31,8 @@ ul a {
 .btncustom1:hover{
     background-color: black;
     color: white;
-}
+} */
+
 
 /* .iconcustom{
    
@@ -41,11 +42,11 @@ ul a {
     background-color: #75BF7A;
     border: 1px solid  #75BF7A;
     border-radius: 5px;
-    padding: 25px 50px;
+    /* padding: 25px 50px; */
 }
 
 .inputcustom{
-    padding: 8px 50px;
+    /* padding: 8px 50px; */
     border: 1px solid white;
     border-radius: 2px;
 }
